@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayu-oss
+- 👋 Hi, I’m Ayush kumar
 - 👀 I’m interested in web devloapment
 - 🌱 I’m currently learning Django frame work
 - 📫 How to reach me ayushpandit.1998@gmail.com
